@@ -1,5 +1,37 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
 }
+header{
+  text-align: center;
+}
+nav{
+  padding-left:10px ;
+  padding-right: 10px;
+}
+.bg{
+  
+  text-decoration-line: underline;
+  background-color: rgb(201, 196, 196)
+}
+#featured-property{
+  text-align: center;
+}
+.me{ 
+  
+  font-size: larger;
+  font-style: calc();
+  font-weight: bold;
+  float: left;
+  width: 800px;
+  align-items: center;
+  margin-right: 5cm;
+  margin-left: 5cm;
+}
+#details div{
+  background-color: red;
+  float: left;
+  width: 25%;
+  text-align: center;
+  }
+  
